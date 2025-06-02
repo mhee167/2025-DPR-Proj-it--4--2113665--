@@ -1,0 +1,51 @@
+﻿profile_id,user_id,nickname,email,age,gender,location,job,height,education,religion,smoking,bio,search_radius,profile_image_url
+7,7,하윤,ngweon@example.com,33,여성,성남시 중원구,소방공학 기술자 및 연구원,178,고졸,무교,흡연자,Nobis dolorem placeat officiis quis fuga ratione. Nihil ducimus necessitatibus molestias repellendus sed.,"[15, 15, 5, 30, 30]",https://example.com/profile_7.jpg
+113,113,춘자,iseonghun@example.com,37,남성,공주시,건축 석공,186,대졸,무교,흡연자,Vero provident veniam est. Hic aliquam ea voluptatum aperiam accusantium maxime.,"[10, 10, 10, 20, 30]",https://example.com/profile_113.jpg
+101,101,선영,zgim@example.com,31,남성,동해시,이용사,162,대학원졸,기독교,흡연자,Dicta fuga maxime delectus tempore aliquam. Nemo inventore quos facilis.,"[30, 5, 5]",https://example.com/profile_101.jpg
+3,3,상현,jihyebaeg@example.org,40,여성,옥천군,기타 사육관련 종사원,162,대졸,불교,비흡연자,Quae fuga commodi inventore voluptates. Dicta sunt exercitationem mollitia error sed. Impedit consequatur provident dolores commodi quos.,[5],https://example.com/profile_3.jpg
+64,64,도윤,jeonghungim@example.com,37,남성,청양군,기타 전기/전자기기 설치 및 수리원,167,대졸,무교,흡연자,Culpa beatae mollitia iste expedita dolores. Distinctio ducimus voluptatibus. Adipisci vero alias consequatur error.,"[10, 40]",https://example.com/profile_64.jpg
+55,55,정희,minseo50@example.org,27,남성,남양주시,세탁원 및 다림질원,181,대졸,기타,흡연자,Eveniet similique in quo sint enim. Corrupti sint nobis eaque voluptate nulla.,"[30, 40]",https://example.com/profile_55.jpg
+127,127,은경,yeonghyigim@example.net,23,남성,부천시 소사구,특수교육 교사,181,고졸,기타,비흡연자,"Suscipit dolore animi soluta.
+Rem odit rem architecto libero. Id doloremque beatae possimus.","[20, 5, 15, 20, 40]",https://example.com/profile_127.jpg
+51,51,우진,yujingim@example.com,39,여성,김포시,철로 설치 및 보수원,158,고졸,불교,흡연자,Cupiditate tenetur magnam. Libero tempora dolorem voluptates cumque voluptatem tenetur dignissimos. Accusantium debitis animi odio officiis.,"[5, 10]",https://example.com/profile_51.jpg
+116,116,예준,yeweongim@example.org,25,여성,철원군,직조기 및 편직기 조작원,161,대졸,무교,비흡연자,Natus eaque enim officiis quia similique.,"[30, 10]",https://example.com/profile_116.jpg
+47,47,상철,gimmyeongsug@example.net,39,남성,속초시,기타 이미용/예식 및 의료보조 서비스 종사원,152,대졸,천주교,비흡연자,Nesciunt odio nisi neque nihil soluta. Doloribus officiis facere natus. Iste id consequatur eos neque perspiciatis.,"[15, 20, 5, 10, 30]",https://example.com/profile_47.jpg
+140,140,옥자,sangho91@example.net,29,여성,안양시 만안구,정육원 및 도축원,155,대졸,기타,흡연자,Culpa illo quia. Vero cum temporibus maxime nemo quasi deserunt.,"[10, 20]",https://example.com/profile_140.jpg
+62,62,현주,seongmini@example.com,20,남성,고성군,문리 및 어학 강사,172,대학원졸,무교,흡연자,Reprehenderit aliquid reiciendis. Commodi voluptas pariatur voluptatum.,[20],https://example.com/profile_62.jpg
+148,148,동현,seonghobag@example.net,24,남성,김포시,상품 대여원,182,대졸,불교,비흡연자,Ipsum est aliquam. Doloribus labore enim iure fugiat pariatur nostrum. Nobis unde illo culpa. Non suscipit quia veniam libero.,"[5, 15, 40, 15, 5, 30]",https://example.com/profile_148.jpg
+80,80,재호,vi@example.net,22,여성,고양시,방사선사,180,대학원졸,무교,흡연자,Nemo illo soluta nesciunt explicabo officia aut. Nihil dolor fugit explicabo.,"[15, 30]",https://example.com/profile_80.jpg
+60,60,정희,hyeonjigim@example.com,21,여성,괴산군,컴퓨터 하드웨어 기술자 및 연구원,176,대졸,천주교,비흡연자,Voluptate soluta occaecati maiores error explicabo similique corporis.,"[15, 10, 15, 5, 30, 40]",https://example.com/profile_60.jpg
+92,92,준서,gimgwangsu@example.net,26,여성,청주시 흥덕구,결혼 상담원 및 웨딩플래너,189,대졸,불교,흡연자,Sit deserunt dolorem numquam voluptas. Sed dicta corporis praesentium ipsam recusandae repellat rem. Aspernatur amet laudantium molestiae.,"[20, 15, 20, 15, 30]",https://example.com/profile_92.jpg
+42,42,영진,cgim@example.com,30,여성,천안시 서북구,큐레이터 및 문화재 보존원,150,고졸,기타,흡연자,Veniam quasi libero delectus in quam illum. Asperiores magni necessitatibus eligendi commodi maxime tempora.,"[30, 10, 10, 40]",https://example.com/profile_42.jpg
+59,59,정남,lyun@example.org,29,남성,안양시 동안구,관세사,160,대졸,기타,비흡연자,Sequi adipisci non aliquam libero. Aliquid voluptatem quidem deleniti dicta incidunt.,"[20, 10]",https://example.com/profile_59.jpg
+91,91,수진,seoyeong01@example.org,23,여성,속초시,광석 및 석제품 가공기 조작원,159,대학원졸,기타,흡연자,Aperiam culpa dolorem aspernatur. Eligendi amet inventore. Voluptatum voluptates repudiandae numquam incidunt.,"[40, 5, 5]",https://example.com/profile_91.jpg
+49,49,서연,wi@example.net,22,여성,평창군,텔레마케터,153,대졸,기독교,비흡연자,Impedit iusto quidem esse eos. Ullam numquam exercitationem ipsam sit tenetur veritatis.,"[15, 30, 15, 15, 15]",https://example.com/profile_49.jpg
+89,89,정웅,gyeongsug11@example.org,29,남성,서천군,마술사 및 기타 문화/ 예술 관련 종사자,157,대학원졸,무교,비흡연자,Cupiditate quas eos mollitia accusamus explicabo id. Praesentium atque quos fuga iure repudiandae rem tempore.,[20],https://example.com/profile_89.jpg
+108,108,아름,hyeonjiyun@example.net,23,남성,동해시,텔레마케터,159,대학원졸,불교,비흡연자,Repellendus autem autem necessitatibus sed quisquam. Voluptatibus commodi illo beatae aperiam fugiat.,"[15, 30, 20]",https://example.com/profile_108.jpg
+125,125,영호,rjeon@example.com,37,남성,성남시 수정구,기타 사회복지관련 종사원,155,대학원졸,기독교,흡연자,Fugiat natus blanditiis recusandae harum cumque. Ad aliquam asperiores voluptate impedit nemo rerum.,[10],https://example.com/profile_125.jpg
+22,22,성현,munsanghyeon@example.net,36,남성,안성시,제관기 조작원,170,고졸,불교,흡연자,"Voluptas est soluta consectetur illum incidunt laborum.
+Repellat fuga labore consectetur. Eos tenetur temporibus.","[5, 40, 30, 20, 30]",https://example.com/profile_22.jpg
+58,58,중수,seoyeong98@example.net,33,남성,용인시 수지구,철도 및 전동차 기관사,175,고졸,불교,비흡연자,Consequatur quia at deleniti impedit quia harum. Non accusamus ad atque. Consequuntur dolorem corporis.,"[5, 40, 40]",https://example.com/profile_58.jpg
+145,145,승현,pi@example.org,29,남성,보은군,국악 및 전통예능인,185,고졸,기독교,흡연자,"Quas natus similique. Praesentium nulla ex assumenda animi. Libero id tenetur quas.
+Soluta tenetur amet iure dolores. Repudiandae earum animi ullam.","[5, 30, 5, 20, 15]",https://example.com/profile_145.jpg
+130,130,영환,yeongmi65@example.net,39,남성,고양시 덕양구,직조기 및 편직기 조작원,170,고졸,천주교,비흡연자,Doloremque reiciendis voluptatum atque. Aperiam at maiores exercitationem. Quo cumque alias perferendis natus quidem.,"[40, 5]",https://example.com/profile_130.jpg
+38,38,영숙,subin83@example.org,26,여성,수원시 장안구,기계공학 기술자 및 연구원,179,대학원졸,기독교,비흡연자,Iste harum vel quibusdam ratione. Voluptatibus rem nisi harum. Commodi alias dolores distinctio quae aperiam itaque voluptatum.,"[20, 20, 10, 10]",https://example.com/profile_38.jpg
+141,141,성호,songyeongsu@example.org,38,남성,횡성군,캐드원,151,대학원졸,기독교,흡연자,Magnam molestias molestiae est fugit. Ipsam odit blanditiis hic vitae. Aliquid eveniet voluptates dicta quas nesciunt.,"[40, 15, 40]",https://example.com/profile_141.jpg
+2,2,춘자,hmun@example.net,35,남성,평창군,단조원,184,고졸,기타,비흡연자,In placeat mollitia aut nostrum. A at ut repellendus culpa optio dolorem. Officia assumenda maxime molestiae vero praesentium pariatur impedit.,"[20, 20, 5, 20]",https://example.com/profile_2.jpg
+53,53,영희,gimogja@example.net,39,남성,금산군,손해사정인,190,고졸,기타,흡연자,Id perspiciatis adipisci esse laboriosam provident doloremque.,[5],https://example.com/profile_53.jpg
+131,131,서영,junhobag@example.net,30,남성,군포시,용접기 조작원,188,고졸,기독교,비흡연자,Debitis ipsam illum assumenda eius minus voluptas. Autem officia consequuntur minima. Soluta necessitatibus hic maiores. Facere quia eum esse autem.,[40],https://example.com/profile_131.jpg
+104,104,채원,seoyeon36@example.net,21,남성,당진시,해외 영업원,189,대졸,무교,흡연자,Quia sunt quia. Harum labore aliquid harum cumque incidunt voluptatibus. Commodi ut nisi.,"[10, 20]",https://example.com/profile_104.jpg
+100,100,영일,hayun00@example.org,33,남성,부여군,자동차 정비원,187,고졸,기독교,비흡연자,Quas similique quibusdam sunt aut aliquam. Modi commodi nostrum vitae fugit ducimus voluptatem.,[20],https://example.com/profile_100.jpg
+117,117,중수,ngim@example.org,32,남성,아산시,정부행정 관리자,158,대졸,불교,흡연자,Itaque labore quisquam est totam. Porro porro corrupti exercitationem in.,"[15, 20, 5, 15, 40, 40]",https://example.com/profile_117.jpg
+88,88,수진,seongminmun@example.org,33,남성,성남시 분당구,검표원,174,대졸,기타,흡연자,Architecto beatae hic officia dolore. Laborum magnam vitae commodi. Voluptatem repudiandae nam consequatur nobis.,"[15, 40]",https://example.com/profile_88.jpg
+75,75,영환,gimyeongsu@example.org,37,남성,여주시,가스/에너지 기술자 및 연구원,174,대졸,기타,흡연자,Quia numquam alias illo saepe accusantium reiciendis. Quos accusamus adipisci vel. Similique ipsam cum ipsum aspernatur possimus.,"[20, 10, 5]",https://example.com/profile_75.jpg
+122,122,은서,gimhyeonji@example.com,20,여성,금산군,통역가,165,고졸,천주교,비흡연자,Laudantium incidunt impedit veritatis. Ab quasi et.,"[5, 30, 40, 30, 10, 10]",https://example.com/profile_122.jpg
+150,150,병철,jieun51@example.net,31,여성,부천시 소사구,정보통신관련 관리자,161,고졸,불교,흡연자,Alias sapiente nam quam. Sequi iure autem animi dolores ratione. Delectus quos ullam eius soluta.,"[30, 10, 30, 15, 5]",https://example.com/profile_150.jpg
+21,21,지아,simjunho@example.com,21,남성,홍성군,안경사,171,대졸,기타,비흡연자,"Totam enim consectetur ipsum. Aliquid dolorem consequatur quas.
+Reiciendis voluptas perferendis. Iure tenetur consequatur quisquam.","[30, 40, 5, 20, 40, 30]",https://example.com/profile_21.jpg
+72,72,예준,dhwang@example.com,35,여성,안산시 상록구,가사 도우미,150,대졸,천주교,비흡연자,Doloribus quam eos sit quae enim vel reprehenderit. Pariatur ratione placeat ut natus vitae nesciunt. Molestiae nostrum eveniet a enim vitae.,[15],https://example.com/profile_72.jpg
+107,107,은경,tgim@example.com,27,여성,의정부시,산업안전 및 위험 관리원,166,고졸,불교,비흡연자,Quia sapiente quos porro. Eveniet tempore veniam fugiat aut velit id. Impedit neque in totam.,"[20, 40, 20, 10]",https://example.com/profile_107.jpg
+15,15,경희,minseog72@example.org,40,여성,남양주시,검표원,164,고졸,무교,흡연자,Quam culpa sint iusto recusandae pariatur exercitationem. Deserunt maiores ipsa sapiente molestiae cumque.,"[20, 20]",https://example.com/profile_15.jpg
+93,93,미영,yeonghyi41@example.com,36,남성,평창군,기타 공학관련 기술자 및 시험원,157,대학원졸,무교,비흡연자,Doloribus neque culpa odio id. Itaque unde est optio. Sequi at facilis aperiam occaecati aut facilis.,"[10, 30, 5, 20, 30, 40]",https://example.com/profile_93.jpg
+103,103,춘자,qhwang@example.org,36,남성,부여군,영상/녹화 및 편집 기사,187,대졸,기타,비흡연자,"Sed rem deserunt. Aliquam quas expedita harum.
+Enim ut qui adipisci. Quis similique fugit alias sunt maxime assumenda.","[30, 15]",https://example.com/profile_103.jpg

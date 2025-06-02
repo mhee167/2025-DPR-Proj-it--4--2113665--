@@ -1,0 +1,121 @@
+﻿contact_id,group_id,name,phone,email,job,birthday,is_favorite
+1,8,김정자,041-864-0112,yeongsuha@example.com,섬유공학 기술자 및 연구원,2004-04-11,False
+2,8,안상철,063-027-6321,gangjihye@example.net,직조기 및 편직기 조작원,1952-12-14,False
+3,7,유서윤,041-356-1841,jeongho85@example.net,변호사,1953-11-04,False
+4,4,김준혁,043-101-3928,ihyeonsug@example.net,통신/방송 및 인터넷 케이블 설치 및 수리원,1971-01-03,True
+5,6,박예원,053-039-0329,jeonghobag@example.com,기타 문리/기술 및 예능 강사,2005-08-20,False
+6,8,안준호,051-569-5181,ogsun35@example.com,의회의원/고위공무원 및 공공단체임원,1967-07-31,False
+7,9,전시우,02-5569-3224,igim@example.net,석유 및 천연가스제조 관련 제어장치 조작원,1995-10-30,True
+8,8,이현우,010-0421-8261,hyeonju41@example.com,전기 및 전자 설비 조작원,1973-12-08,False
+9,5,최동현,017-737-4699,coeyeongil@example.net,안마사,1956-03-01,False
+10,10,박영숙,055-647-1476,seunghyeon60@example.net,응용 소프트웨어 개발자,1969-02-11,False
+11,6,강준서,055-689-2653,yeongjincoe@example.org,기타 연극/영화 및 영상 관련 종사자,1970-03-22,False
+12,4,김예지,032-614-7940,yeongjin79@example.org,광원/채석원 및 석재 절단원,1988-05-04,False
+13,3,권경자,051-535-7069,iyeongjin@example.net,여행 사무원,1999-03-06,True
+14,4,박재호,055-225-1299,kgang@example.com,위관급,2009-03-31,False
+15,8,류은정,055-867-1748,bagjiu@example.net,인문과학 연구원,1953-12-28,False
+16,8,최민서,044-549-2667,gimjeongsun@example.net,표백 및 염색 관련 조작원,1970-11-27,True
+17,7,양서연,010-6652-8546,seoyeon63@example.com,조경 기술자,1968-07-03,False
+18,2,김지은,070-2942-0803,zgim@example.com,웹 및 멀티미디어 기획자,2009-05-21,True
+19,2,김은지,055-395-7556,yeongjagim@example.net,시스템 소프트웨어 개발자,1947-07-22,False
+20,3,김준서,02-5829-2417,wi@example.com,가축 사육 종사원,1956-08-22,False
+21,5,이상철,041-040-9358,qo@example.org,기술 및 기능계 강사,2001-11-07,False
+22,5,김경숙,011-187-1245,eungyeong33@example.com,증권 및 외환 딜러,1948-02-13,False
+23,6,이민수,043-942-1192,tcoe@example.com,기타 여가 및 스포츠 관련 종사원,1984-01-29,False
+24,4,한영길,010-4907-9195,seonyeong47@example.com,가사 도우미,2007-07-30,False
+25,8,박경숙,018-863-6028,eungyeongi@example.net,기술 및 기능계 강사,1970-02-18,False
+26,1,김도현,031-121-7333,ugim@example.com,택배원,1982-05-18,False
+27,10,이상호,053-412-5923,siui@example.net,자산 운용가,1991-11-25,True
+28,5,장예준,017-292-3776,eunji64@example.org,기타 식품가공관련 기계조작원,1970-05-17,False
+29,5,양광수,017-355-4578,seunghyeon40@example.com,운송 사무원,1954-01-25,False
+30,9,최성수,011-403-2989,hhwang@example.com,기타 스포츠 및 레크레이션 관련 전문가,2007-03-02,False
+31,4,이성훈,02-7967-4246,isanghun@example.com,식품 및 담배 등급원,1948-07-02,True
+32,1,김영일,042-557-4138,seojunbag@example.com,선박 정비원,1996-02-29,False
+33,9,박정수,042-254-1620,zyu@example.com,자동차 정비원,1974-04-28,False
+34,2,이우진,053-754-6773,jeongsug49@example.org,교육 관리자,1974-10-24,False
+35,7,권영철,062-847-2660,naseoyeong@example.org,선장/항해사 및 도선사,1980-05-30,False
+36,5,진미정,042-068-0205,aseong@example.com,촬영기사,1988-07-05,False
+37,8,허영순,064-710-6126,gangmijeong@example.com,단조원,2010-01-01,False
+38,8,김영식,031-335-7027,yeeun59@example.org,공업기계 설치 및 정비원,1981-09-07,False
+39,8,이도윤,019-435-5437,jeonyeongsun@example.org,환경 미화원 및 재활용품 수거원,1997-06-08,False
+40,10,윤현우,051-390-5929,hyejin75@example.org,유치원 교사,1991-08-10,True
+41,3,김현숙,02-5231-7611,coehaeun@example.com,직업상담사 및 취업 알선원,1982-07-16,False
+42,9,김하윤,010-5913-4651,gimjinu@example.org,선박 갑판승무원 및 관련 종사원,1981-08-01,False
+43,6,김명자,055-007-0946,seoyeon80@example.org,치과위생사,2003-11-30,False
+44,5,권준서,063-267-8002,seoyeong41@example.com,수의사,1990-08-24,False
+45,10,권민수,070-9772-2980,jongsui@example.com,의지보조기기사,1972-09-28,False
+46,2,김서현,062-532-2415,yuneungyeong@example.com,기타 배달원,1967-07-06,False
+47,6,김은영,044-043-7970,hyeonjunbag@example.com,목재 가공관련 기계 조작원,1946-11-02,False
+48,9,안현우,061-922-1947,fu@example.org,웹 및 멀티미디어 디자이너,1967-12-01,False
+49,9,송영수,043-093-7559,gimseungmin@example.org,인문과학 연구원,1952-05-22,False
+50,8,이건우,043-227-0513,jiyeon39@example.org,이용사,1958-05-12,False
+51,5,박지후,062-553-1980,gimyeonggil@example.com,석유 및 천연가스제조 관련 제어장치 조작원,2008-11-20,True
+52,1,윤정자,053-305-0734,gimeunseo@example.org,인터넷 판매원,2006-07-20,False
+53,3,김지혜,070-3054-7270,ujin68@example.net,기타 건축마감관련 기능 종사원,1973-11-04,False
+54,3,이현우,019-885-9188,sangho69@example.com,시멘트 및 광물제품 제조기 조작원,1959-09-17,False
+55,9,우시우,062-139-9263,jangseongmin@example.com,섬유제조 기계조작원,1978-03-15,True
+56,5,이성현,054-118-8765,tgim@example.com,한의사,2009-09-16,False
+57,1,안경숙,063-499-8682,yunseobag@example.net,제빵원 및 제과원,1965-12-06,False
+58,8,오병철,017-609-0378,sunog70@example.com,육아 도우미,2001-09-08,False
+59,2,이성민,064-766-4359,bagsangho@example.net,자연과학 연구원,1964-01-04,False
+60,10,김영호,055-113-1185,cyun@example.com,목재 가공관련 기계 조작원,1965-12-11,False
+61,3,김종수,02-5090-6538,eunju73@example.com,계기 검침원 및 가스점검원,1972-09-02,False
+62,3,최예진,052-217-7946,hyeonjeong73@example.com,가구조립원,1996-12-02,False
+63,9,한예진,062-578-5295,xi@example.org,자동조립라인 및 산업용 로봇 조작원,1964-08-02,False
+64,8,송민지,063-774-9268,bagseojun@example.org,공예원,2007-05-28,False
+65,3,오영철,033-129-4974,zcoe@example.org,오락시설 서비스원,1978-01-31,False
+66,8,고재호,02-7661-6103,yueunju@example.net,기타 판매 및 고객 서비스 관리자,1953-08-18,False
+67,5,최서연,031-375-4542,seongho20@example.com,전문 의사,2001-03-04,True
+68,7,황재호,062-893-3617,dgim@example.net,기타 미용관련 서비스 종사원,1979-11-04,False
+69,2,이미정,053-948-2006,bagcunja@example.org,유리제조 및 가공기 조작원,1989-02-21,False
+70,10,박영길,018-851-0449,ieungyeong@example.org,법률/경찰/소방 및 교도 관리자,1959-10-15,False
+71,8,장정웅,033-114-3220,jeongsugbag@example.com,가사 도우미,2002-04-11,False
+72,2,박민석,016-176-9816,geonugang@example.com,특수교육 교사,1947-02-20,False
+73,4,김순자,017-303-1240,jujihyeon@example.org,대학 교육조교,1991-01-29,True
+74,9,조서현,063-967-8043,ogjai@example.org,금속 / 재료공학 시험원,1944-08-19,False
+75,3,류승현,018-611-7822,ryuhyeonju@example.net,경비원,2001-12-02,False
+76,4,김서준,018-465-9089,misug25@example.org,컴퓨터 강사,1977-12-24,False
+77,2,김준서,061-869-3595,yeongja21@example.net,철근공,1995-06-10,True
+78,7,이재호,062-269-1150,gi@example.org,출납창구 사무원,1998-04-19,True
+79,5,안은서,042-122-2447,yeongil77@example.net,금속기계부품 조립원,1960-12-18,False
+80,3,박정숙,053-061-4797,jihu84@example.net,생산 및 품질 관리 사무원,1951-04-12,False
+81,5,송지아,019-431-3758,yeongsu32@example.com,청원 경찰,1990-03-05,False
+82,2,류경숙,011-996-8681,byeongceoli@example.com,화물차 및 특수차 운전원,2004-01-27,False
+83,10,이병철,02-9701-3478,obag@example.org,기타 기술영업 및 중개 관련 종사자,1949-10-15,True
+84,5,김광수,062-710-6388,hyeonjun14@example.org,관세행정 사무원,1954-11-21,True
+85,7,김지아,051-208-5049,yeji17@example.net,시멘트 및 광물제품 제조기 조작원,1994-01-12,False
+86,4,박윤서,016-261-1593,qi@example.com,한복 제조원,1945-01-15,False
+87,3,이영수,019-344-9164,gimeunji@example.com,타이어 및 고무제품 생산기 조작원,1953-03-27,False
+88,4,양서연,018-745-7820,fi@example.org,농업용 및 기타 기계장비 설치 및 정비원,1989-09-17,True
+89,10,백지영,032-346-9063,mbag@example.com,법률/경찰/소방 및 교도 관리자,2001-05-11,False
+90,2,김서준,061-321-3459,yeongmi88@example.net,전문 의사,2001-03-08,False
+91,9,최도현,019-122-0362,jaehyeongim@example.com,의회의원/고위공무원 및 공공단체임원,1961-07-17,False
+92,8,이성훈,055-088-3228,junhyeog91@example.org,보건의료관련 관리자,1986-03-09,False
+93,7,김지은,044-797-5218,jbag@example.net,조세행정 사무원,1953-10-25,False
+94,3,이미경,044-377-5788,minji26@example.org,회계사,1953-10-04,False
+95,4,박영길,031-042-4785,fjin@example.net,인쇄기 조작원,2006-10-03,False
+96,9,김진호,062-561-3864,sujin64@example.com,계기 검침원 및 가스점검원,1973-07-09,False
+97,9,김영식,02-9285-3282,subin79@example.org,광고 및 홍보 전문가,1972-10-28,False
+98,8,김민수,011-471-4992,sanghyeoni@example.net,냉/난방 관련 설비 조작원,1961-07-31,True
+99,1,김서현,063-897-0737,junhoyun@example.com,화가 및 조각가,1967-07-05,False
+100,7,김현준,063-162-6384,seoyeongi@example.net,위관급,2008-05-06,False
+101,6,김정희,018-338-2644,hyeonjun90@example.com,경호원,2008-05-08,False
+102,4,남미정,031-199-1033,sanghyeon20@example.org,제관원,1967-12-19,False
+103,10,하은영,051-738-8585,donghyeon95@example.net,자동차 영업원,2006-07-12,True
+104,7,서민석,052-574-2256,seoyeong63@example.org,토목공학 기술자,1965-10-14,False
+105,4,엄정웅,054-551-4591,xbag@example.com,경영 및 진단 전문가,1945-09-12,False
+106,8,안순자,02-7198-6384,ogim@example.net,판금기 조작원,1957-12-13,False
+107,8,노영철,032-822-6182,seongmingim@example.org,기타 공학관련 기술자 및 시험원,1981-06-07,False
+108,9,한지후,033-935-6165,iyejun@example.net,기타 사무원,1981-06-28,True
+109,1,김정숙,02-0745-7661,junho32@example.net,기타 종교관련 종사자,1947-05-22,False
+110,2,고혜진,061-685-0106,hyejin36@example.org,유리제조 및 가공기 조작원,1954-11-06,False
+111,8,최시우,070-9669-5711,kbag@example.org,정보 시스템 운영자,1988-03-14,False
+112,8,김정순,033-439-6033,kson@example.com,조세행정 사무원,1977-03-14,True
+113,2,김예진,033-893-4401,yeongceolgim@example.org,무역 사무원,1957-02-20,True
+114,7,박영숙,02-9188-0689,misugyang@example.net,도배공 및 유리 부착원,1947-08-12,False
+115,2,곽미영,041-127-5795,tgim@example.net,연예인 및 스포츠 매니저,1982-03-16,False
+116,2,곽옥순,063-501-2303,ji@example.com,재단사,1957-12-06,False
+117,1,황미영,043-860-7359,minjaei@example.org,광석 및 석제품 가공기 조작원,1978-11-06,False
+118,2,한미정,011-876-0851,subin42@example.org,수금원,1998-05-28,False
+119,8,양서현,070-0789-5804,seojunbae@example.org,기타 석유 및 화학물 가공장치 조작원,2008-03-20,True
+120,10,이성진,032-859-4061,pbag@example.com,기타 목재 및 종이 관련 기계조작원,1988-12-30,False

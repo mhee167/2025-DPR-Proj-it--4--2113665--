@@ -1,0 +1,61 @@
+﻿taker_id,name,email,age,gender,phone,job,hospital_details,registration_date
+181,박옥자,gimseonghyeon@example.com,30,여성,070-8664-7355,선박 정비원,True,2024-12-14
+179,이민수,yeonghyi09@example.net,19,여성,042-166-6533,가축 사육 종사원,False,2025-05-15
+186,이수빈,seohyeon72@example.com,31,남성,017-187-0226,의복/가죽 및 모피 수선원,False,2024-02-19
+50,손정희,qi@example.net,41,여성,043-688-1800,번역가,False,2024-05-25
+81,박도현,yeongili@example.net,43,여성,017-872-7512,어부 및 해녀,False,2024-03-05
+35,최현우,jihu32@example.org,47,여성,033-145-8165,정보 시스템 운영자,False,2023-06-06
+8,주숙자,heoyeonggil@example.com,58,여성,043-906-9771,지휘자/작곡가 및 연주가,False,2024-06-15
+111,김성민,jijongsu@example.com,39,여성,062-296-5211,화학공학 시험원,True,2024-08-22
+92,김성훈,tgim@example.org,33,여성,019-905-1781,청소원,False,2024-11-09
+84,강수빈,cno@example.org,28,남성,054-260-4928,웹 개발자,False,2023-11-17
+177,류명숙,gimyeongjin@example.net,30,남성,031-547-8170,제빵원 및 제과원,False,2024-08-14
+182,강수빈,baegyejun@example.org,37,남성,062-702-8568,만화가 및 만화영화 작가,True,2023-06-06
+90,김영식,nojaehyeon@example.org,27,남성,054-591-9896,펄프 및 종이 제조장치 조작원,True,2025-01-29
+9,한서연,jia96@example.net,44,남성,011-483-8481,금속 / 재료공학 시험원,True,2023-07-02
+14,곽지민,junhyeog87@example.com,18,남성,053-887-7147,기타 여가 및 스포츠 관련 종사원,False,2024-02-12
+60,이지아,zhong@example.org,59,여성,033-443-2623,기자 및 논설위원,False,2023-12-21
+172,이정훈,hyeonjeongbag@example.com,57,여성,011-493-1498,배관 세정원 및 방역원,False,2024-05-12
+132,최숙자,jeonghyinam@example.org,36,여성,018-459-5638,조명기사 및 영사기사,True,2025-04-06
+18,강종수,boramcoe@example.net,24,여성,041-326-8153,계기 검침원 및 가스점검원,True,2023-07-15
+73,이영순,seongsugim@example.net,63,남성,019-195-4125,석유 및 천연가스제조 관련 제어장치 조작원,False,2024-12-30
+176,임지은,jinuyun@example.net,40,여성,044-643-6529,컴퓨터 하드웨어 기술자 및 연구원,False,2023-10-05
+135,윤재현,dohyeongim@example.org,28,여성,033-605-7557,무인 경비원,False,2024-11-23
+168,한명자,mgim@example.com,22,남성,063-734-7128,기타 전문서비스 관리자,False,2023-06-17
+184,이윤서,hgweon@example.com,24,남성,016-175-3153,기술 및 기능계 강사,False,2023-06-17
+64,최서연,songyeonghyi@example.com,29,여성,018-318-1031,검표원,False,2023-12-18
+55,이건우,zgim@example.net,36,여성,052-911-1372,영관급 이상,True,2023-12-12
+108,오영숙,hyeonjeongi@example.com,56,남성,019-492-9539,기타 사무원,False,2023-09-09
+51,이채원,migyeong18@example.org,41,여성,016-797-3824,제화원,False,2024-10-13
+197,류지훈,gimseonyeong@example.net,41,남성,017-746-5709,연예인 및 스포츠 매니저,False,2023-06-19
+59,이미경,jeongsuni@example.net,53,여성,063-240-9617,출납창구 사무원,True,2024-11-13
+49,김중수,tgim@example.com,65,남성,051-650-8890,출판물 전문가,True,2024-04-24
+89,김재호,jihun32@example.org,32,여성,018-275-2158,섬유공학 기술자 및 연구원,True,2024-02-06
+22,김정남,seonghun21@example.com,54,남성,043-817-5220,선장/항해사 및 도선사,False,2023-08-12
+58,김옥순,junhyeog41@example.com,45,여성,064-716-6132,화가 및 조각가,True,2024-05-23
+161,박성민,jeongjeongja@example.com,23,남성,032-279-5609,자동조립라인 및 산업용 로봇 조작원,True,2023-10-17
+193,황명숙,ueunyeong@example.net,21,남성,041-921-4295,소년보호관 및 교도관,True,2024-08-11
+130,박승현,gangjeonghyi@example.net,36,남성,044-958-3255,컴퓨터 보안 전문가,False,2024-06-27
+38,최은정,minsu21@example.net,60,여성,016-977-5735,철근공,False,2024-10-13
+158,백민준,najinu@example.com,45,남성,018-088-1268,기타 미용관련 서비스 종사원,False,2025-04-01
+194,이상훈,gimseongsu@example.com,56,여성,033-324-5178,기타 제조관련 기계 조작원,True,2024-07-07
+2,박재현,gangyeongsu@example.net,57,여성,055-492-9896,가구조립원,True,2023-10-28
+53,한정희,songyeongsug@example.org,62,남성,011-711-3498,계기 검침원 및 가스점검원,False,2024-10-27
+150,김예은,coedohyeon@example.com,65,여성,062-537-2332,간병인,False,2024-12-16
+131,나건우,sangceolgim@example.net,33,남성,010-4821-9659,곡물가공제품 기계 조작원,False,2023-12-15
+152,김정자,iyeongmi@example.net,54,여성,031-286-8377,제분 및 도정 관련 기계 조작원,False,2024-12-18
+104,이서준,seoyeon72@example.net,23,여성,042-777-5197,물리 및 작업 치료사,False,2023-09-13
+100,김순옥,gimyeongsug@example.net,37,남성,016-217-3441,위관급,False,2023-09-09
+117,안승민,cunja68@example.org,49,여성,032-402-2400,배우 및 모델,False,2024-09-11
+88,성하은,donghyeon71@example.com,45,남성,055-246-4565,한복 제조원,False,2024-04-06
+75,이경자,hayunbag@example.com,35,남성,031-670-9602,항공기 조종사,False,2025-03-16
+122,한지원,minjae02@example.net,23,남성,031-706-6344,병무행정 사무원,True,2025-05-26
+200,최경수,eunjuhan@example.net,32,여성,063-772-1665,정부 및 공공 행정 전문가,False,2024-09-06
+21,한지훈,gimyejun@example.net,59,남성,032-897-6245,전기/가스 및 수도 관련 관리자,False,2025-04-22
+189,이지아,seunghyeoni@example.com,64,여성,053-887-5207,장기 부사관 및 준위,False,2024-06-19
+72,황예준,yeongja80@example.net,49,여성,055-308-5794,직조기 및 편직기 조작원,False,2023-10-27
+107,정민준,pi@example.net,56,여성,053-484-2054,조명기사 및 영사기사,False,2023-07-26
+15,박영자,yeongho12@example.org,22,여성,064-728-8559,보일러 설치 및 정비원,False,2024-06-04
+93,민승현,gi@example.net,50,여성,042-242-7009,웹 개발자,True,2025-04-09
+180,류지민,yeonghyi64@example.org,43,남성,017-585-1471,물품이동 장비 조작원,True,2023-09-28
+103,고서윤,seonyeong60@example.org,35,여성,042-509-6082,홍보 도우미 및 판촉원,True,2023-09-07

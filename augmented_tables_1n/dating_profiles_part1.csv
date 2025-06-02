@@ -1,0 +1,151 @@
+﻿profile_id,user_id,nickname,email,age,gender,location,job,height,education
+1,1,영진,jiyeonyun@example.net,25,남성,안양시,아나운서 및 리포터,156,대졸
+2,2,춘자,hmun@example.net,35,남성,평창군,단조원,184,고졸
+3,3,상현,jihyebaeg@example.org,40,여성,옥천군,기타 사육관련 종사원,162,대졸
+4,4,영식,junseogim@example.org,28,남성,수원시 영통구,철근공,179,고졸
+5,5,승현,oeunji@example.net,23,여성,과천시,금형원,168,고졸
+6,6,지원,gangseungmin@example.com,27,여성,용인시,인문과학 연구원,158,고졸
+7,7,하윤,ngweon@example.com,33,여성,성남시 중원구,소방공학 기술자 및 연구원,178,고졸
+8,8,성민,yujin70@example.com,38,남성,부천시 오정구,도배공 및 유리 부착원,150,대졸
+9,9,상훈,jeonghoo@example.org,24,여성,양평군,치과 의사,160,고졸
+10,10,상호,eunyeongsong@example.net,26,남성,김포시,여행상품 개발자,177,고졸
+11,11,지영,sujin21@example.net,38,여성,용인시,기타 이미용/예식 및 의료보조 서비스 종사원,166,고졸
+12,12,현준,caeweon36@example.org,34,남성,공주시,기타 금융 및 보험 관련 전문가,159,대학원졸
+13,13,준영,sumin69@example.net,37,여성,보령시,운송장비 조립원,176,대졸
+14,14,미정,yeongceol05@example.net,30,여성,시흥시,석유 및 천연가스제조 관련 제어장치 조작원,161,대졸
+15,15,경희,minseog72@example.org,40,여성,남양주시,검표원,164,고졸
+16,16,은정,rgim@example.net,30,남성,증평군,상/하수도 처리장치 조작원,164,대학원졸
+17,17,시우,jiyeong03@example.net,23,남성,평택시,냉/난방 관련 설비 조작원,185,고졸
+18,18,지혜,seoyeong05@example.com,20,여성,용인시 처인구,전기 부품 및 제품제조 기계조작원,151,대학원졸
+19,19,성진,xbag@example.com,28,여성,성남시,환경 미화원 및 재활용품 수거원,187,대졸
+20,20,진우,ihaeun@example.net,37,남성,홍성군,국가/지방 및 공공행정 사무원,155,대졸
+21,21,지아,simjunho@example.com,21,남성,홍성군,안경사,171,대졸
+22,22,성현,munsanghyeon@example.net,36,남성,안성시,제관기 조작원,170,고졸
+23,23,도현,ujingim@example.com,20,여성,평창군,운송관련 관리자,169,고졸
+24,24,정희,bagujin@example.net,24,남성,의정부시,과실 및 채소 관련 기계조작원,176,대졸
+25,25,영길,seonghunhong@example.net,40,여성,논산시,방수공,150,대졸
+26,26,춘자,jangmisug@example.com,26,여성,부천시 오정구,전문 의사,174,고졸
+27,27,채원,gimminsu@example.org,33,여성,금산군,양식원,150,대졸
+28,28,영식,gimhyeonjeong@example.com,34,남성,안양시 동안구,공업 배관공,175,대졸
+29,29,민준,jangjeongsug@example.com,40,여성,홍천군,음향 및 녹음 기사,167,대졸
+30,30,영희,dohyeoni@example.org,30,여성,성남시 분당구,예능 강사,153,고졸
+31,31,정숙,hyejin83@example.com,32,남성,예산군,기타 이미용/예식 및 의료보조 서비스 종사원,167,대졸
+32,32,명숙,cunja99@example.com,32,남성,횡성군,제조관련 단순 종사원,189,고졸
+33,33,재현,jiyeon79@example.org,27,남성,서천군,화물열차 차장 및 관련 종사원,154,고졸
+34,34,정호,hayungim@example.org,35,남성,옥천군,제화원,165,대학원졸
+35,35,성호,yeeuni@example.org,28,남성,수원시,상품중개인 및 경매사,160,고졸
+36,36,민준,seongjin37@example.net,31,여성,수원시 팔달구,음식서비스관련 관리자,172,대학원졸
+37,37,예지,jiabag@example.net,36,남성,평창군,관세사,156,대학원졸
+38,38,영숙,subin83@example.org,26,여성,수원시 장안구,기계공학 기술자 및 연구원,179,대학원졸
+39,39,정식,junho03@example.com,20,남성,제천시,판금기 조작원,186,대졸
+40,40,서준,myeongja32@example.com,28,여성,원주시,철도 및 전동차 기관사,171,고졸
+41,41,성진,boramheo@example.com,40,남성,연천군,판금원,184,대졸
+42,42,영진,cgim@example.com,30,여성,천안시 서북구,큐레이터 및 문화재 보존원,150,고졸
+43,43,도현,hyejinbag@example.org,32,여성,안산시 단원구,기타 주방장 및 조리사,155,대학원졸
+44,44,미영,jungsu71@example.com,34,여성,영월군,수금원,165,대학원졸
+45,45,미경,seunghyeongim@example.org,25,남성,평창군,제관원,158,대졸
+46,46,진우,jiyeon41@example.org,27,여성,괴산군,경찰관,188,고졸
+47,47,상철,gimmyeongsug@example.net,39,남성,속초시,기타 이미용/예식 및 의료보조 서비스 종사원,152,대졸
+48,48,순옥,jangareum@example.com,34,남성,속초시,상/하수도 처리장치 조작원,150,고졸
+49,49,서연,wi@example.net,22,여성,평창군,텔레마케터,153,대졸
+50,50,지혜,wi@example.com,34,남성,고양시 일산동구,건축 도장공,181,대학원졸
+51,51,우진,yujingim@example.com,39,여성,김포시,철로 설치 및 보수원,158,고졸
+52,52,지후,yeonggil61@example.net,33,여성,가평군,선박 및 열차 객실승무원,189,대졸
+53,53,영희,gimogja@example.net,39,남성,금산군,손해사정인,190,고졸
+54,54,진호,gyeongsuan@example.net,32,남성,고양시 덕양구,사회복지관련 관리자,186,고졸
+55,55,정희,minseo50@example.org,27,남성,남양주시,세탁원 및 다림질원,181,대졸
+56,56,지민,ujo@example.com,20,남성,진천군,이용사,150,고졸
+57,57,동현,songyeonghyi@example.net,32,여성,안산시 상록구,예능 강사,167,대학원졸
+58,58,중수,seoyeong98@example.net,33,남성,용인시 수지구,철도 및 전동차 기관사,175,고졸
+59,59,정남,lyun@example.org,29,남성,안양시 동안구,관세사,160,대졸
+60,60,정희,hyeonjigim@example.com,21,여성,괴산군,컴퓨터 하드웨어 기술자 및 연구원,176,대졸
+61,61,아름,seonghunbag@example.net,21,여성,양구군,보조 교사 및 기타 교사,189,대학원졸
+62,62,현주,seongmini@example.com,20,남성,고성군,문리 및 어학 강사,172,대학원졸
+63,63,지영,hyejin25@example.org,29,여성,남양주시,출판물 전문가,175,대학원졸
+64,64,도윤,jeonghungim@example.com,37,남성,청양군,기타 전기/전자기기 설치 및 수리원,167,대졸
+65,65,춘자,eunji75@example.net,25,여성,증평군,양식 주방장 및 조리사,181,대졸
+66,66,예원,bagseungmin@example.net,28,남성,음성군,조림/영림 및 벌목원,162,대졸
+67,67,영순,gimseoyeon@example.org,29,남성,청주시 서원구,대학 교수,159,대졸
+68,68,영식,yujingim@example.com,31,여성,안양시 만안구,기타 금융 및 보험 관련 전문가,168,고졸
+69,69,하은,myeongja35@example.com,30,여성,괴산군,변리사,172,대졸
+70,70,영수,mi@example.com,26,남성,음성군,건설 배관공,184,고졸
+71,71,옥자,jeongnamim@example.com,30,남성,괴산군,성직자,169,대졸
+72,72,예준,dhwang@example.com,35,여성,안산시 상록구,가사 도우미,150,대졸
+73,73,경자,ei@example.org,20,여성,청주시 서원구,출판물 전문가,183,고졸
+74,74,진호,ugim@example.com,23,여성,고성군,신발제조기 조작원 및 조립원,181,대졸
+75,75,영환,gimyeongsu@example.org,37,남성,여주시,가스/에너지 기술자 및 연구원,174,대졸
+76,76,현준,lbae@example.com,23,남성,논산시,의복/가죽 및 모피 수선원,190,대졸
+77,77,정희,iseongmin@example.org,34,남성,성남시,화학공학 시험원,177,고졸
+78,78,성훈,gimyeonggil@example.net,39,남성,구리시,판금원,163,대졸
+79,79,승현,yeongsugjang@example.net,23,남성,진천군,건축 도장공,170,고졸
+80,80,재호,vi@example.net,22,여성,고양시,방사선사,180,대학원졸
+81,81,재현,gimhayun@example.com,23,여성,진천군,기타 배달원,169,대졸
+82,82,지은,jiu05@example.net,36,남성,공주시,제조관련 단순 종사원,190,대졸
+83,83,정훈,agim@example.org,22,남성,수원시 장안구,항공기 조종사,171,대졸
+84,84,지혜,minji87@example.com,31,남성,태백시,단열공,163,대학원졸
+85,85,영자,jbag@example.org,24,남성,광명시,용접기 조작원,158,대졸
+86,86,진호,yujini@example.com,39,남성,군포시,자동차 부분품 조립원,154,대졸
+87,87,미숙,seoyun39@example.org,26,남성,수원시 권선구,특수교육 교사,183,대졸
+88,88,수진,seongminmun@example.org,33,남성,성남시 분당구,검표원,174,대졸
+89,89,정웅,gyeongsug11@example.org,29,남성,서천군,마술사 및 기타 문화/ 예술 관련 종사자,157,대학원졸
+90,90,윤서,yunseogim@example.org,24,남성,부여군,건축 목공,162,고졸
+91,91,수진,seoyeong01@example.org,23,여성,속초시,광석 및 석제품 가공기 조작원,159,대학원졸
+92,92,준서,gimgwangsu@example.net,26,여성,청주시 흥덕구,결혼 상담원 및 웨딩플래너,189,대졸
+93,93,미영,yeonghyi41@example.com,36,남성,평창군,기타 공학관련 기술자 및 시험원,157,대학원졸
+94,94,춘자,yunjiweon@example.net,27,남성,보령시,생산 및 품질 관리 사무원,186,고졸
+95,95,수빈,jieun57@example.org,40,여성,속초시,도장기 조작원,155,대졸
+96,96,경수,seongsugim@example.net,23,여성,진천군,문리 및 어학 강사,185,대학원졸
+97,97,현정,jangjeonghyi@example.net,40,남성,홍성군,통역가,189,대졸
+98,98,재현,jiyeonbaeg@example.net,37,남성,진천군,환경공학 시험원,163,대학원졸
+99,99,윤서,jihyegang@example.org,26,남성,용인시 처인구,귀금속 및 보석 세공원,159,대졸
+100,100,영일,hayun00@example.org,33,남성,부여군,자동차 정비원,187,고졸
+101,101,선영,zgim@example.com,31,남성,동해시,이용사,162,대학원졸
+102,102,수빈,hongjaehyeon@example.com,39,여성,안양시 동안구,냉동/냉장 /공조기 설치 및 정비원,164,고졸
+103,103,춘자,qhwang@example.org,36,남성,부여군,영상/녹화 및 편집 기사,187,대졸
+104,104,채원,seoyeon36@example.net,21,남성,당진시,해외 영업원,189,대졸
+105,105,주원,bagdoyun@example.net,31,여성,단양군,대학 시간강사,189,대졸
+106,106,현우,gweoncunja@example.com,30,남성,화천군,무용가 및 안무가,157,대학원졸
+107,107,은경,tgim@example.com,27,여성,의정부시,산업안전 및 위험 관리원,166,고졸
+108,108,아름,hyeonjiyun@example.net,23,남성,동해시,텔레마케터,159,대학원졸
+109,109,상현,hwangujin@example.org,37,여성,부여군,펄프 및 종이 제조장치 조작원,150,고졸
+110,110,지원,migyeong25@example.net,38,여성,양구군,전기 및 전자 설비 조작원,172,고졸
+111,111,영식,yangseongsu@example.com,27,여성,안성시,철도 및 전동차 기관사,155,대졸
+112,112,영일,xmun@example.net,34,여성,양구군,대학 교수,167,대학원졸
+113,113,춘자,iseonghun@example.com,37,남성,공주시,건축 석공,186,대졸
+114,114,옥순,msong@example.com,37,남성,태백시,간판 제작 및 설치원,163,대학원졸
+115,115,영식,jeongsuryu@example.org,22,여성,속초시,대학 교수,156,고졸
+116,116,예준,yeweongim@example.org,25,여성,철원군,직조기 및 편직기 조작원,161,대졸
+117,117,중수,ngim@example.org,32,남성,아산시,정부행정 관리자,158,대졸
+118,118,정희,seohaeun@example.com,34,남성,청주시 청원구,금속가공 기계조작원,158,대학원졸
+119,119,재호,minjunryu@example.org,32,여성,인제군,어부 및 해녀,158,대졸
+120,120,현주,minsu51@example.net,23,여성,영월군,위관급,167,대졸
+121,121,명숙,ngim@example.net,23,남성,횡성군,전기/전자 및 기계 공학 시험원,172,고졸
+122,122,은서,gimhyeonji@example.com,20,여성,금산군,통역가,165,고졸
+123,123,병철,si@example.com,25,남성,성남시 수정구,건축 석공,154,고졸
+124,124,채원,jisangho@example.com,32,남성,태안군,물리 및 작업 치료사,171,대졸
+125,125,영호,rjeon@example.com,37,남성,성남시 수정구,기타 사회복지관련 종사원,155,대학원졸
+126,126,재호,seongjincoe@example.org,33,여성,여주시,음식서비스관련 관리자,153,고졸
+127,127,은경,yeonghyigim@example.net,23,남성,부천시 소사구,특수교육 교사,181,고졸
+128,128,성호,hyejin49@example.net,39,여성,안산시 단원구,예능 강사,167,대졸
+129,129,민지,seongmingim@example.org,25,남성,청양군,기타 판매관련 단순 종사원,153,대학원졸
+130,130,영환,yeongmi65@example.net,39,남성,고양시 덕양구,직조기 및 편직기 조작원,170,고졸
+131,131,서영,junhobag@example.net,30,남성,군포시,용접기 조작원,188,고졸
+132,132,성훈,jeonghunsong@example.net,35,남성,안성시,전기/전자 부품 및 제품 조립원,168,대학원졸
+133,133,정숙,seunghyeoni@example.org,25,여성,연천군,자동차 영업원,186,고졸
+134,134,도현,pgim@example.com,38,남성,양양군,기타 식품가공관련 기계조작원,179,대졸
+135,135,옥자,zan@example.net,20,남성,춘천시,식품공학 기술자 및 연구원,171,대학원졸
+136,136,민준,jiweonbag@example.org,22,여성,괴산군,음식서비스관련 관리자,170,대졸
+137,137,상현,sunja51@example.net,33,여성,시흥시,경영 및 진단 전문가,190,고졸
+138,138,민지,cunja84@example.org,36,여성,횡성군,기타 제조관련 기계 조작원,189,고졸
+139,139,현주,jgim@example.org,30,여성,충주시,농업용 및 기타 기계장비 설치 및 정비원,155,대졸
+140,140,옥자,sangho91@example.net,29,여성,안양시 만안구,정육원 및 도축원,155,대졸
+141,141,성호,songyeongsu@example.org,38,남성,횡성군,캐드원,151,대학원졸
+142,142,성진,yujin01@example.com,35,남성,계룡시,건축 석공,168,대학원졸
+143,143,지아,jeonghunsong@example.net,37,여성,안양시 만안구,주조기 조작원,170,고졸
+144,144,영순,yeongho27@example.net,24,여성,시흥시,기타 자동차 운전원,158,대졸
+145,145,승현,pi@example.org,29,남성,보은군,국악 및 전통예능인,185,고졸
+146,146,민지,siugim@example.net,24,남성,군포시,건설 및 광업기계 설치 및 정비원,155,대학원졸
+147,147,현우,seongho97@example.org,32,남성,당진시,일식 주방장 및 조리사,174,대졸
+148,148,동현,seonghobag@example.net,24,남성,김포시,상품 대여원,182,대졸
+149,149,명자,seoyeongsig@example.org,26,여성,용인시 수지구,유치원 교사,158,대학원졸
+150,150,병철,jieun51@example.net,31,여성,부천시 소사구,정보통신관련 관리자,161,고졸

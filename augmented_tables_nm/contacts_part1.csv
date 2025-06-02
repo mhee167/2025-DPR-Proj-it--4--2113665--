@@ -1,0 +1,121 @@
+﻿contact_id,name,phone,email,company,job
+1,서숙자,070-4341-1027,zgim@example.net,정권,비파괴 검사원
+2,권현정,055-796-7895,hyeonji48@example.net,홍박김,광석 및 석제품 가공기 조작원
+3,김영숙,032-392-5857,gwangsu98@example.com,이박손,임상병리사
+4,박시우,063-950-4422,eunji20@example.org,주식회사 김구박,주방 보조원
+5,김영희,010-4329-8599,goyeongil@example.net,김김이,물품이동 장비 조작원
+6,김순옥,054-025-2800,heosanghyeon@example.net,(유) 이심이,제빵원 및 제과원
+7,이민지,053-770-1565,gimminji@example.com,이심지,경비원
+8,김광수,051-689-8661,seoyeonggim@example.org,(유) 한황지,관세사
+9,김민준,061-087-5657,vsim@example.net,남김이,정보 시스템 운영자
+10,이진우,031-268-4104,zsin@example.org,박김,조적공 및 석재 부설원
+11,김예진,053-567-4744,ji@example.org,유한회사 김최장,기타 사회복지관련 종사원
+12,김성현,063-527-4980,jeongho86@example.org,(유) 김이박,방수공
+13,이정훈,02-9627-8120,nyun@example.com,김박윤,숙박시설 서비스원
+14,김정숙,061-847-6415,yejuni@example.net,김이,작가 및 관련 전문가
+15,김보람,043-692-8327,jeongsun63@example.org,이박문,기타 사회복지관련 종사원
+16,하지후,010-6277-3110,boramo@example.org,황김,물품 이동 장비 설치 및 정비원
+17,이지현,033-857-7821,ri@example.net,유한회사 홍김김,바텐더
+18,김하은,061-608-7975,jihun03@example.org,유한회사 박김김,시멘트 및 광물제품 제조기 조작원
+19,오미영,042-041-3798,jaehyeon08@example.net,오곽김,도금 및 금속분무기 조작원
+20,박병철,043-401-5640,hanmisug@example.org,(유) 송문김,철근공
+21,안준서,062-535-5163,gimyejun@example.net,(유) 우,조경원
+22,권현지,018-038-4736,cunjagim@example.net,주식회사 박,손해사정인
+23,김지은,052-790-0592,ujingim@example.org,노이백,기획 및 마케팅 사무원
+24,송예지,032-904-3693,baggyeongsug@example.org,유한회사 최,보건위생 및 환경 검사원
+25,황하윤,041-263-8692,mijeongbag@example.org,(유) 박,화가 및 조각가
+26,박정웅,042-821-3950,ki@example.com,유한회사 이,도배공 및 유리 부착원
+27,황영일,052-300-3885,gimsanghyeon@example.com,김오류,제품 생산관련 관리자
+28,노정웅,033-853-1888,coeyejun@example.net,주식회사 백,강구조물 가공원 및 건립원
+29,김재현,070-7662-3463,gimjeonghun@example.org,(주) 이,항공기 객실승무원
+30,서채원,053-959-6720,wi@example.net,주식회사 이,유리제조 및 가공기 조작원
+31,김상호,054-004-2250,jiweoni@example.net,오김,지휘자/작곡가 및 연주가
+32,우옥순,041-119-9262,jiyeon71@example.org,(유) 이,건축 석공
+33,이성수,064-735-2379,seungmingim@example.org,주식회사 이강김,조경원
+34,김영환,054-433-7257,hyejin07@example.org,이김,세탁원 및 다림질원
+35,이은정,042-156-3911,bagminjun@example.com,류김,고객 상담 및 모니터 요원
+36,구지후,051-221-6765,nhwang@example.net,이이,음식서비스관련 관리자
+37,홍숙자,063-927-0472,bagyeongsu@example.org,허박김,보건위생 및 환경 검사원
+38,윤민서,043-512-2526,jongsugim@example.net,주식회사 김강한,메이크업 아티스트 및 분장사
+39,이예진,011-728-6779,caeweon62@example.com,(주) 장이김,소방공학 기술자 및 연구원
+40,박민서,010-1964-1398,jinu02@example.com,윤곽김,학습지 및 방문 교사
+41,지민지,061-688-9641,sugjacoe@example.org,심백고,철도 기관차 및 전동차 정비원
+42,박영순,011-319-6708,gimbyeongceol@example.net,(주) 이박문,특수교육 교사
+43,한하윤,051-005-2228,seonghyeon60@example.com,최이최,학습지 및 방문 교사
+44,박현지,016-407-2944,gimmigyeong@example.org,김나김,출판물 전문가
+45,임민서,052-328-7161,gimjeongnam@example.net,유한회사 김,청원 경찰
+46,이성훈,055-774-0577,jihun05@example.com,주식회사 손,생명과학 연구원
+47,김성현,018-648-3725,yeongjasong@example.com,유한회사 권,철근공
+48,안영철,042-473-9700,minjae09@example.net,유한회사 권,목재 가공관련 기계 조작원
+49,이영자,044-247-5291,siubag@example.org,(유) 김,하역 및 적재 단순 종사원
+50,김서윤,051-233-7157,zgim@example.net,(유) 우김박,이용사
+51,강재현,053-771-6650,pgim@example.org,유한회사 이최김,위생사
+52,김지연,033-512-3806,gimseunghyeon@example.org,이양,배우 및 모델
+53,최예지,018-245-0326,ti@example.com,유한회사 백,소년보호관 및 교도관
+54,김숙자,062-705-9818,seojongsu@example.net,(주) 김,통신/방송 및 인터넷 케이블 설치 및 수리원
+55,박진호,017-367-6931,jeongnam08@example.org,박김,기타 전기/전자기기 설치 및 수리원
+56,김현숙,053-788-3943,seungminjo@example.net,이이,기타 전문서비스 관리자
+57,장경수,042-474-8018,ygang@example.net,곽권,선박 및 열차 객실승무원
+58,권영숙,018-617-2368,qbag@example.net,(유) 민,조세행정 사무원
+59,배영철,070-0996-3504,yujinbag@example.net,우문박,작가 및 관련 전문가
+60,박은정,011-388-9181,jiyeongwag@example.org,윤양,자동차 조립원
+61,윤보람,053-911-9392,hyeonucoe@example.net,손김문,작가 및 관련 전문가
+62,강영호,032-397-0561,hyeonjibag@example.com,(유) 최김김,기타 채굴 및 토목 관련 종사자
+63,김지은,043-479-2253,bagsangceol@example.net,김권차,단조원
+64,강지연,064-723-9322,mseo@example.org,류김한,대학 교육조교
+65,김영호,041-591-1393,sanghyeon69@example.org,이박김,낙농업관련 종사원
+66,신준영,044-613-1992,ogjaca@example.net,유한회사 강,일반기계 조립원
+67,이명숙,043-976-4363,sanghogim@example.org,오최김,전자 부품 및 제품 제조 기계조작원
+68,이건우,031-175-5684,ogja96@example.com,(주) 이박김,강구조물 가공원 및 건립원
+69,이지연,011-382-5380,gimjunyeong@example.org,유한회사 이손이,안내 / 접수 사무원 및 전화교환원
+70,한동현,032-854-6750,ebag@example.com,유한회사 최김오,항공기 조종사
+71,이은서,011-914-0433,myun@example.org,노권박,인터넷 판매원
+72,윤승민,052-359-2414,ji@example.net,주식회사 윤,자동조립라인 및 산업용 로봇 조작원
+73,이은경,061-143-1783,imijeong@example.org,(유) 윤,전자공학 기술자 및 연구원
+74,이진호,070-9752-7385,cgweon@example.net,(주) 이윤박,기업고위임원
+75,이옥순,055-109-8392,simminseo@example.com,서이,조사 전문가
+76,전영호,062-169-3302,seongho28@example.org,(주) 김,플라스틱제품 생산기 조작원
+77,남준영,062-043-7960,hyejin48@example.org,(유) 김,물리 및 작업 치료사
+78,이영철,043-352-4080,byeongceol57@example.net,(유) 이,변리사
+79,박정남,041-394-9497,munminsu@example.com,심김김,금속 / 재료공학 연구원 및 기술자
+80,김예준,017-962-4231,sujingweon@example.org,주식회사 김박홍,환경공학 시험원
+81,송유진,016-598-9482,ieunji@example.com,이양,자동차 정비원
+82,황도윤,018-942-0717,dbag@example.net,(주) 김,철도 기관차 및 전동차 정비원
+83,양준영,041-844-6216,gimseohyeon@example.net,이이,악기제조 및 조율사
+84,박서연,051-938-3003,coeeunseo@example.com,송이,간호조무사
+85,박윤서,043-481-5449,bagogja@example.org,(유) 권,전기 부품 및 제품제조 기계조작원
+86,강혜진,061-801-9172,jihyegim@example.org,류이,건설자재 시험원
+87,서지훈,010-1525-5504,byeongceolgim@example.com,이최,환경공학 기술자 및 연구원
+88,정숙자,044-345-0326,doyun66@example.net,주식회사 김최박,선박 정비원
+89,김명자,042-854-5631,jihyeju@example.net,오임,매표원 및 복권 판매원
+90,이영순,042-305-7103,seongmin42@example.net,최김,통신 및 방송송출 장비 기사
+91,홍순옥,033-872-6202,ji@example.net,(유) 양,안경사
+92,이주원,061-861-2198,junhyeoghong@example.net,유한회사 강,기타 배달원
+93,김진우,055-886-4807,jangminji@example.com,유한회사 김,상/하수도 처리장치 조작원
+94,오경수,031-011-9114,jihun40@example.com,(주) 송,세무사
+95,서승현,02-3553-0126,gimyeongho@example.com,(유) 오진류,기타 기능관련 종사원
+96,윤상현,055-867-6263,bjang@example.com,주식회사 이,환경/청소 및 경비 관련 관리자
+97,강선영,053-425-8908,jaehoi@example.net,유한회사 이,기타 음식서비스 종사원
+98,최경수,041-142-1827,seoyeon34@example.net,최강,물품이동 장비 조작원
+99,이종수,02-3160-6918,jeongung06@example.com,문김성,간병인
+100,박은경,052-888-5136,gimhyeonjeong@example.net,윤김이,기타 목재 및 종이 관련 기계조작원
+101,윤지아,032-406-4236,jihyebaeg@example.org,안이박,방문 판매원
+102,김은주,010-4046-4077,baemijeong@example.org,배이권,철근공
+103,김성민,063-336-4828,ieunjeong@example.net,최이,감정평가 전문가
+104,이수빈,053-792-7708,oryu@example.com,유한회사 이,물품 이동 장비 설치 및 정비원
+105,이춘자,033-613-0927,seongjin68@example.org,주식회사 박,농업용 및 기타 기계장비 설치 및 정비원
+106,김지민,055-747-7298,minseog18@example.org,(주) 김주김,신발제조기 조작원 및 조립원
+107,권미숙,016-182-4388,heoseoyun@example.net,최김허,기타 건설/전기 및 생산 관련 관리자
+108,이순옥,070-6860-0268,gyeongsu88@example.org,(유) 김김박,변호사
+109,박지원,041-342-8180,seongho58@example.org,이안이,건축 석공
+110,박은주,018-294-6177,sanghogim@example.org,주식회사 김,사회복지관련 관리자
+111,박진우,053-030-4788,seongjinjang@example.com,(주) 이엄박,스포츠 및 레크레이션 강사
+112,이미정,011-363-9152,ri@example.net,김김,상품중개인 및 경매사
+113,이영환,019-583-9367,seongjihu@example.org,문이,사회과학 연구원
+114,김성훈,019-209-3829,seohyeonji@example.com,유한회사 이최백,보육 교사
+115,이재호,011-390-4565,subini@example.net,유한회사 신,펄프 및 종이 제조장치 조작원
+116,박광수,032-392-8786,yeweonjang@example.org,김김윤,산업안전 및 위험 관리원
+117,김우진,044-042-7189,ebag@example.com,박윤,회계 사무원
+118,김준혁,019-907-5945,heohyeonjun@example.org,이김,간호조무사
+119,윤경수,011-505-1483,gwangsugim@example.net,(주) 박김송,기타 여가 및 스포츠 관련 종사원
+120,심영희,010-1558-1489,hyeonju52@example.com,(주) 서,육류/어패류 및 낙농품 가공 기계조작원

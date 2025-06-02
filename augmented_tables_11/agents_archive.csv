@@ -1,0 +1,16 @@
+﻿agent_id,name,email,department,status,hire_date
+3,김정자,igim@example.org,고객지원,오프라인,2023-09-20
+44,김영환,gimsangceol@example.com,기술지원,온라인,2023-01-28
+36,한예은,iujin@example.com,영업지원,통화중,2024-06-30
+24,한명숙,juweon23@example.net,일반상담,오프라인,2025-04-09
+41,김지후,jiubag@example.com,일반상담,오프라인,2025-03-12
+11,한현주,yeonghwanbag@example.net,고객지원,온라인,2023-07-09
+23,김병철,yeonghogim@example.org,영업지원,오프라인,2022-07-28
+19,김옥자,gimseonghyeon@example.com,영업지원,오프라인,2024-10-22
+50,서성훈,yeongjingim@example.net,일반상담,온라인,2024-12-06
+21,권서준,tbag@example.net,일반상담,통화중,2022-09-30
+8,최지민,yeongsug06@example.com,영업지원,통화중,2023-01-21
+43,고민준,jongsu21@example.com,영업지원,온라인,2022-07-05
+15,이승현,ugim@example.net,기술지원,통화중,2022-11-25
+29,이현우,jaeho80@example.org,고객지원,온라인,2024-12-06
+39,박현우,areum08@example.org,영업지원,휴무,2022-10-17

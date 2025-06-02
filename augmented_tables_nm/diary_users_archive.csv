@@ -1,0 +1,13 @@
+﻿user_id,username,email,birth_year,gender,timezone,created_at
+4,seongjin81,jeongsug42@example.com,2005,여성,Europe/London,2025-05-22
+36,rmin,jeongnamseo@example.com,1993,남성,America/New_York,2024-12-17
+24,eungyeong98,geonugang@example.org,1987,여성,America/New_York,2023-08-18
+33,minjun16,miyeong33@example.net,1983,여성,Asia/Seoul,2023-10-04
+11,jojia,rbag@example.org,1995,여성,Europe/London,2024-12-07
+23,jeongsug65,hyeonu10@example.net,1992,여성,Europe/London,2024-11-08
+19,myeongsug03,jinho37@example.org,2002,여성,Europe/London,2023-12-16
+21,seojun76,minsui@example.com,1992,여성,Asia/Seoul,2023-06-06
+8,minjun10,hyeonugim@example.org,1989,여성,America/New_York,2025-02-09
+15,seonghun89,sunoggim@example.com,1987,남성,America/New_York,2024-06-15
+29,yeweon01,subinbae@example.org,1998,여성,Asia/Seoul,2024-10-17
+39,jeongsun36,ogja41@example.com,1998,남성,America/New_York,2023-06-19

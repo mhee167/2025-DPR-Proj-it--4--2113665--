@@ -1,0 +1,9 @@
+﻿stock_id,stock_code,stock_name,market,sector
+1,005930,삼성전자,KOSDAQ,바이오
+18,017670,SK바이오팜,KOSPI,금융
+16,323410,카카오페이,KOSDAQ,화학
+2,000660,SK하이닉스,KOSPI,금융
+9,028260,삼성물산,KOSDAQ,화학
+6,005490,POSCO홀딩스,KOSPI,제조업
+12,003670,SK이노베이션,KOSDAQ,화학
+4,005380,현대차,KOSDAQ,IT

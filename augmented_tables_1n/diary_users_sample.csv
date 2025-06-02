@@ -1,0 +1,17 @@
+﻿user_id,username,email,birth_year,gender,timezone,created_at
+20,iboram,seonyeong83@example.com,1988,여성,Asia/Seoul,2024-10-19
+17,yeongsug64,ijihye@example.com,1982,남성,America/New_York,2023-10-20
+16,yunyeonghwan,yhan@example.net,1988,남성,America/New_York,2025-05-20
+27,eunyeongjang,jihyeonryu@example.com,1989,여성,America/New_York,2023-11-02
+5,junyeong48,ojaeho@example.com,1988,여성,America/New_York,2025-02-20
+13,bcoe,munjeongja@example.net,1981,남성,Asia/Seoul,2024-09-13
+38,bagyeweon,gimjunseo@example.com,1989,남성,Asia/Seoul,2024-09-13
+28,dohyeonbaeg,minjibag@example.com,1980,남성,Asia/Seoul,2023-11-29
+40,di,eunjeong11@example.com,1984,남성,Asia/Seoul,2024-12-03
+7,iyeji,songsunja@example.com,2001,여성,Asia/Seoul,2025-03-30
+26,iyeonghyi,bagyeongsig@example.org,1987,여성,Europe/London,2024-10-10
+10,gimyeongja,yeonggili@example.com,1980,여성,America/New_York,2024-10-14
+14,ogsun30,cca@example.com,1986,남성,Europe/London,2024-07-29
+32,gimyeeun,baggwangsu@example.net,2000,여성,Europe/London,2024-08-01
+35,gwagjinho,seoyeong23@example.net,2000,남성,Europe/London,2025-01-26
+9,muneunju,jeongho14@example.com,1994,남성,America/New_York,2024-05-03

@@ -1,0 +1,13 @@
+﻿type_id,type_name,description,duration_minutes,cost
+1,MBTI,91,102,등급4
+2,MMPI,54,118,등급1
+3,Big5,45,63,등급4
+4,NEO-PI-R,74,44,등급1
+5,CPI,77,87,등급2
+6,DISC,81,71,등급2
+7,Enneagram,85,113,등급3
+8,Holland,74,118,등급4
+9,TCI,52,77,등급3
+10,HEXACO,91,93,등급1
+11,Dark Triad,94,68,등급3
+12,EQ,90,90,등급5
